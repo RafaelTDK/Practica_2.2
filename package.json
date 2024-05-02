@@ -7,7 +7,7 @@
     "test": "Pagina_web"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "Practica_2.2"
   },
   "keywords": [
