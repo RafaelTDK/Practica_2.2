@@ -4,7 +4,7 @@
   "description": "Practica 2.2 Desarrollo Web",
   "main": "index.js",
   "scripts": {
-    "test": "Amo_a_Eli"
+    "test": "Pagina_web"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "keywords": [
     "Luna"
   ],
-  "author": "Rafael Hernandez Sanchez y Elizabeth Zausa Agis (Mi casi algo)",
+  "author": "Rafael Hernandez Sanchez y Elizabeth Zausa Agis ",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
