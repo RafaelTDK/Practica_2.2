@@ -1,0 +1,23 @@
+{
+  "name": "practica_2.2",
+  "version": "1.0.0",
+  "description": "Practica 2.2 Desarrollo Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "Amo_a_Eli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Practica_2.2"
+  },
+  "keywords": [
+    "Luna"
+  ],
+  "author": "Rafael Hernandez Sanchez y Elizabeth Zausa Agis (Mi casi algo)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2"
+  }
+}
