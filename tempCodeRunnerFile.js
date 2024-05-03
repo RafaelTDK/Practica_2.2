@@ -1,1 +1,0 @@
-/public/img3.jpg
