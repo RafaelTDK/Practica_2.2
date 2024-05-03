@@ -1,19 +1,13 @@
 {
-  "name": "practica_2.2",
+  "name": "practica-2.2",
   "version": "1.0.0",
-  "description": "Practica 2.2 Desarrollo Web",
+  "description": "Práctica 2.2 Diseño Web",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "Pagina_web"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "module",
-    "url": "Practica_2.2"
-  },
-  "keywords": [
-    "Luna"
-  ],
-  "author": "Rafael Hernandez Sanchez y Elizabeth Zausa Agis ",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
